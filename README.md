@@ -11,4 +11,4 @@ I am a software engineer based in Singapore. My primary focus is on backend syst
 
 2. NTU Stars Bot. A bot that uses selenium in order to help students get their modules during course registration.
 
--[Bot](https://github.com/yankai14/NTU-Stars-Bot)
+- [Bot](https://github.com/yankai14/NTU-Stars-Bot)
